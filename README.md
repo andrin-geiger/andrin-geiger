@@ -12,7 +12,7 @@
 **andrin-geiger/andrin-geiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on my bachelor degree in computer science at Hochschule Luzern
 - 🌱 I’m currently learning Terraform, Kubernetes, CI/CD, cloud computing and more about DevOps
--->
